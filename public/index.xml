@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>羊仔的博客</title>
+    <link>http://localhost:1313/yangblog/</link>
+    <description>Recent content on 羊仔的博客</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/yangblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/yangblog/posts/hello-world/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yangblog/posts/hello-world/</guid>
+      <description>&lt;p&gt;欢迎来到我的博客！这是我的第一篇文章。&lt;/p&gt;
+&lt;h2 id=&#34;为什么要写博客&#34;&gt;为什么要写博客？&lt;/h2&gt;
+&lt;p&gt;写博客可以帮助我们：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;整理和分享知识&lt;/li&gt;
+&lt;li&gt;提高写作能力&lt;/li&gt;
+&lt;li&gt;结识志同道合的朋友&lt;/li&gt;
+&lt;li&gt;记录个人成长&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;未来计划&#34;&gt;未来计划&lt;/h2&gt;
+&lt;p&gt;我会在这里分享：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技术教程&lt;/li&gt;
+&lt;li&gt;学习笔记&lt;/li&gt;
+&lt;li&gt;项目经验&lt;/li&gt;
+&lt;li&gt;生活感悟&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/yangblog/about/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yangblog/about/</guid>
+      <description>&lt;h2 id=&#34;-我是谁&#34;&gt;🧑‍💻 我是谁&lt;/h2&gt;
+&lt;p&gt;羊仔，来自南京&lt;/p&gt;
+&lt;h2 id=&#34;-个人介绍&#34;&gt;👤 个人介绍&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;央企程序员、TL，10年开发，3年管理&lt;/li&gt;
+&lt;li&gt;AI破局俱乐部初创合伙人&lt;/li&gt;
+&lt;li&gt;斑码AI合伙人&lt;/li&gt;
+&lt;li&gt;系统架构设计师证书&lt;/li&gt;
+&lt;li&gt;工信部AI智能体应用工程师证书&lt;/li&gt;
+&lt;li&gt;MBTI：INTJ&lt;/li&gt;
+&lt;li&gt;盖洛普前五：战略|理念|思维|完美|学习&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-我能提供&#34;&gt;🤝 我能提供&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;智能体、大模型应用定制化开发资源&lt;/li&gt;
+&lt;li&gt;大后端软件开发、咨询&lt;/li&gt;
+&lt;li&gt;工信部AI智能体应用工程师考证资源&lt;/li&gt;
+&lt;li&gt;AI提示词、AI写作相关经验、资源&lt;/li&gt;
+&lt;li&gt;AI工具使用交流&lt;/li&gt;
+&lt;li&gt;互联网软件分享&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-关注我&#34;&gt;📱 关注我&lt;/h2&gt;
+&lt;p&gt;公众号：羊仔AI探索&lt;/p&gt;
+&lt;h2 id=&#34;-联系方式&#34;&gt;📫 联系方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: 你的邮箱@example.com&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D&#34;&gt;@你的用户名&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
