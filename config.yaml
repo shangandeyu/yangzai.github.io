@@ -1,4 +1,4 @@
-baseURL: "https://你的用户名.github.io/yangblog/"
+baseURL: "https://yangzai.github.io/"
 title: "羊仔的博客"
 paginate: 5
 theme: PaperMod
@@ -40,7 +40,7 @@ params:
     enabled: true
     title: "羊仔的博客"
     subtitle: "👨‍💻 央企程序员 | AI探索者"
-    imageUrl: "/yangblog/img/avatar.jpg"
+    imageUrl: "/img/avatar.jpg"
     imageWidth: 160
     imageHeight: 160
     buttons:
@@ -56,10 +56,10 @@ params:
       url: "https://blog.csdn.net/你的CSDN用户名"
 
   assets:
-    favicon: "/yangblog/img/favicon.ico"
-    favicon16x16: "/yangblog/img/favicon-16x16.png"
-    favicon32x32: "/yangblog/img/favicon-32x32.png"
-    apple_touch_icon: "/yangblog/img/apple-touch-icon.png"
+    favicon: "/img/favicon.ico"
+    favicon16x16: "/img/favicon-16x16.png"
+    favicon32x32: "/img/favicon-32x32.png"
+    apple_touch_icon: "/img/apple-touch-icon.png"
 
 menu:
   main:
